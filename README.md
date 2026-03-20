@@ -60,10 +60,12 @@ Adicionei um mouse pad de R$35,00 e corrigi um erro na linha $this->preco = $pre
 Adicionei uma tela de edição dos dados do cliente, permitindo alterar nome e e-mail, além de incluir um botão para salvar as alterações.
 
 📷 Imagem:
-<img width="522" height="229" alt="image" src="https://github.com/user-attachments/assets/47de77a7-1a43-4e31-ac8b-afc1d0a60601" />
 
-<img width="1158" height="182" alt="image" src="https://github.com/user-attachments/assets/4321ac54-fbf5-4156-aa40-ad0e0bf32139" />
+<img width="522" height="229" alt="Captura de tela 2026-03-20 173448" src="https://github.com/user-attachments/assets/9e2d76a1-afb2-49c4-be6c-f41f8423cc9c" />
 
+
+
+<img width="1158" height="182" alt="Captura de tela 2026-03-20 173608" src="https://github.com/user-attachments/assets/8e3781f9-fd6b-4385-877b-ef5742e6bd69" />
 
 
 🚀 Como executar
