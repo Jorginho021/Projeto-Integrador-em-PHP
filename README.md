@@ -66,6 +66,6 @@ Inicie o Apache
 Acesse no navegador:
 
 http://localhost/Projeto%20integrador%20em%20php/index.php
-📌 Conclusão
 
+📌 Conclusão:
 Este projeto ajudou a entender melhor como funciona a organização de um sistema utilizando PHP com POO, além de reforçar boas práticas de desenvolvimento e criação de interfaces responsivas.
