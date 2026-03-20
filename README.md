@@ -55,6 +55,15 @@ Adicionei um mouse pad de R$35,00 e corrigi um erro na linha $this->preco = $pre
 
 
 
+🆕Sexto commit
+
+Adicionei uma tela de edição dos dados do cliente, permitindo alterar nome e e-mail, além de incluir um botão para salvar as alterações.
+
+📷 Imagem:
+<img width="522" height="229" alt="image" src="https://github.com/user-attachments/assets/47de77a7-1a43-4e31-ac8b-afc1d0a60601" />
+
+<img width="1158" height="182" alt="image" src="https://github.com/user-attachments/assets/4321ac54-fbf5-4156-aa40-ad0e0bf32139" />
+
 
 
 🚀 Como executar
